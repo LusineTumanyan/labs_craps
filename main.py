@@ -1,6 +1,7 @@
 
 import random
 
+
 def play_craps():
     roll = random.randint(1, 6) + random.randint(1, 6)
 
